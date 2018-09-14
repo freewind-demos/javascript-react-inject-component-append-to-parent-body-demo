@@ -1,7 +1,7 @@
-JavaScript React Inject Component to Parent Demo
-================================================
+JavaScript React Inject Component Append to Parent Demo
+=======================================================
 
-在iframe引用的内页中，如何将某个react component插入到外层页面中。
+在iframe引用的内页中，如何将某个react component附加到外层页面的body最后。
 
 ```
 npm install
